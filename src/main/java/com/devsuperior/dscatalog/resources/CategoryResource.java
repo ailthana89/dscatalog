@@ -11,7 +11,6 @@ import org.springframework.web.bind.annotation.*;
 import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
 import java.net.URI;
 
-
 @RestController
 @RequestMapping(value = "/categories")
 public class CategoryResource {
